@@ -23,6 +23,6 @@ I'm Mark, a recent graduate from Arizona State University with a degree in Infor
 ## Get in Touch
 
 - LinkedIn: [https://www.linkedin.com/in/mark-c-hall]
-- Portfolio: [https://markchall.com.com]
+- Portfolio: [https://markchall.com]
 
 Feel free to explore my repositories and projects. I'm always excited to learn from others and share my knowledge. Let's connect and build something!

@@ -1,29 +1,19 @@
 # Hi there!
 
-I'm Mark, a recent graduate from Arizona State University with a degree in Information Technology. I'm passionate about DevOps and aspire to become a Site Reliability Engineer.
+I'm Mark, a Site Reliability Engineer based in the Boston area. I focus on observability, infrastructure automation, and treating operational problems as engineering challenges.
 
 ## About Me
 
-- I have extensive experience in developing full-stack web applications using TypeScript.
-- I enjoy coding in Python and am currently exploring the Go programming language.
-- I'm eager to learn more about open-source projects and contribute to the community.
+- Currently working on data platform reliability at UKG
+- Background in infrastructure and platform work across AWS and GCP
+- Prefer Go and Python for tooling and automation
 - Pronouns: He/Him
 
-## Current Focus
+## What's Here
 
-- Expanding my knowledge of DevOps best practices and tools.
-- Deepening my understanding of cloud technologies, particularly AWS.
-- Developing my skills in automation, CI/CD pipelines, and infrastructure as code.
-
-## Collaboration
-
-- I'm open to collaborating on interesting projects related to DevOps, web development, or automation.
-- If you have any ideas or opportunities, feel free to reach out!
+Most of my professional work lives in private and corporate repos, so this GitHub is mostly older projects and experimentation. You'll find some Go work and various student projects from my time at ASU.
 
 ## Get in Touch
 
-- LinkedIn: [https://www.linkedin.com/in/mark-c-hall]
-- Portfolio: [https://markchall.com]
-- Email: [mark.hall993@gmail.com]
-
-Feel free to explore my repositories and projects. I'm always excited to learn from others and share my knowledge. Let's connect and build something!
+- LinkedIn: [linkedin.com/in/mark-c-hall](https://www.linkedin.com/in/mark-c-hall)
+- Email: mark.hall993@gmail.com

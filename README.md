@@ -1,6 +1,6 @@
 # Hello there!
 
-I'm Mark, a Site Reliability Engineer based in the Boston area. I build tooling and automation in Go and Python to solve operational problems -- monitoring systems, CLI utilities, infrastructure as code, and anything that replaces a manual process with something sustainable.
+I'm Mark, a Site Reliability Engineer based in the Boston area. I build tooling and automation in Go and Python to solve operational problems: monitoring systems, CLI utilities, infrastructure as code, and anything that replaces a manual process with something sustainable.
 
 ## What I Work On
 

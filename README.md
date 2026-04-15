@@ -1,19 +1,19 @@
-# Hi there!
+# Hello there!
 
-I'm Mark, a Site Reliability Engineer based in the Boston area. I focus on observability, infrastructure automation, and treating operational problems as engineering challenges.
+I'm Mark, a Site Reliability Engineer based in the Boston area. I build tooling and automation in Go and Python to solve operational problems -- monitoring systems, CLI utilities, infrastructure as code, and anything that replaces a manual process with something sustainable.
 
-## About Me
+## What I Work On
 
-- Currently working on data platform reliability at UKG
-- Background in infrastructure and platform work across AWS and GCP
-- Prefer Go and Python for tooling and automation
-- Pronouns: He/Him
+- Reliability engineering across Kubernetes, Kafka, and GCP infrastructure
+- Observability: Prometheus, Grafana, alerting strategy, SLO design
+- Internal tooling that helps other engineers work faster
+- Infrastructure as code with Terraform and Ansible
 
 ## What's Here
 
-Most of my professional work lives in private and corporate repos, so this GitHub is mostly older projects and experimentation. You'll find some Go work and various student projects from my time at ASU.
+Most of my professional work lives in private repos, but I'm working on publishing more here. Current interests include Go-based infrastructure tooling and synthetic monitoring.
 
 ## Get in Touch
 
-- LinkedIn: [linkedin.com/in/mark-c-hall](https://www.linkedin.com/in/mark-c-hall)
-- Email: mark.hall993@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/mark-c-hall)
+- mark.hall993@gmail.com
